@@ -94,10 +94,6 @@ _Coming soon — automated via GitHub Actions._
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lakshmiPrasanna32&theme=react&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/lakshmiPrasanna32/lakshmiPrasanna32/output/snake.svg" alt="Contribution snake" />
-</p>
-
 ---
 
 ### Let's Connect
