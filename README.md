@@ -83,19 +83,6 @@ _Coming soon — automated via GitHub Actions._
 
 ---
 
-### GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lakshmiPrasanna32&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshmiPrasanna32&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lakshmiPrasanna32&theme=react&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</p>
-
----
-
 ### Let's Connect
 
 <p align="left">
